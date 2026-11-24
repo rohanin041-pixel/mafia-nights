@@ -1,0 +1,6 @@
+{
+  "name": "Mafia Nights",
+  "description": "A neon-noir party Mafia game played in one room where the phone is the narrator so nobody has to sit out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
